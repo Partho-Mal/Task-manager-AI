@@ -1,4 +1,4 @@
-# 🚀 Final Project: AI-Enhanced Task Manager
+# 🚀 Project: AI-Enhanced Task Manager
 
 ## 🔧 Technology Stack
 
